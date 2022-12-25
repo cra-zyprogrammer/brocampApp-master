@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594524421633",
+    "project_id": "brototype-5f538",
+    "storage_bucket": "brototype-5f538.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594524421633:android:7c35be08f49bb7d6340a00",
+        "android_client_info": {
+          "package_name": "com.example.brocamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594524421633-rvjv808akvhdgg438ee9capf1ue31leg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNMioMbfPWPDhizyA_1vGCjF2jvFg95os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594524421633-rvjv808akvhdgg438ee9capf1ue31leg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
